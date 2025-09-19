@@ -32,6 +32,13 @@ Este é um **material de estudo pessoal** e não possui qualquer vínculo oficia
 
 ---
 
+## 📜 Licença
+
+Este material está protegido pela licença **CC BY-NC-ND 4.0**.
+Isso significa que ele pode ser compartilhado, mas não pode ser modificado ou usado para fins comerciais.
+
+---
+
 ## 👤 Autor
 
 * **Anielle Severo Lisboa de Andrade**
