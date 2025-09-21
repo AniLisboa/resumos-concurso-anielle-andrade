@@ -25,6 +25,7 @@ A lista de assuntos presentes no material é a seguinte:
 * Gestão de Projetos de Software
   
 ---
+ADENDO:Um novo arquivo com material complementar, `[Adendo - Material para prova escrita.PDF]`, também está disponível.
 
 ## ⚠️ Aviso Importante
 
